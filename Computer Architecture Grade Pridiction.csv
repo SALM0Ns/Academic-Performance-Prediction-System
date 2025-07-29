@@ -1,0 +1,73 @@
+CA,FPC,ICS,CP,FOC,Skips,Work Summit,Noted ?,Like Calculate ?
+A - B,C+  - D,C+ - D,C+ - D,"F , W",Yes,No,No,Yes
+A - B,C+  - D,A - B,C+ - D,"F , W",No,Yes,Yes,No
+C+ - D,C+  - D,A - B,C+ - D,C+ - D,Yes,Yes,Yes,No
+C+ - D,C+  - D,C+ - D,C+ - D,C+ - D,Yes,Yes,No,No
+C+ - D,C+  - D,C+ - D,C+ - D,C+ - D,Yes,Yes,No,No
+A - B,C+  - D,A - B,C+ - D,C+ - D,No,Yes,Yes,Yes
+C+ - D,C+  - D,C+ - D,C+ - D,"F , W",Yes,No,No,Yes
+A - B,C+  - D,C+ - D,C+ - D,C+ - D,Yes,Yes,Yes,No
+A - B,C+  - D,A - B,C+ - D,C+ - D,Yes,No,No,No
+A - B,C+  - D,C+ - D,C+ - D,"F , W",Yes,No,Yes,Yes
+A - B,C+  - D,C+ - D,C+ - D,C+ - D,Yes,Yes,No,No
+A - B,C+  - D,C+ - D,C+ - D,"F , W",Yes,Yes,Yes,No
+C+ - D,C+  - D,C+ - D,C+ - D,"F , W",No,Yes,No,No
+C+ - D,"F , W",A - B,A - B,"F , W",No,Yes,Yes,Yes
+A - B,A - B,A - B,A - B,C+ - D,Yes,Yes,Yes,Yes
+A - B,A - B,A - B,A - B,A - B,No,Yes,Yes,Yes
+A - B,A - B,A - B,A - B,C+ - D,No,Yes,Yes,No
+A - B,C+  - D,A - B,C+ - D,A - B,Yes,Yes,Yes,No
+C+ - D,A - B,A - B,A - B,C+ - D,Yes,No,No,No
+A - B,C+ - D,C+ - D,C+ - D,C+ - D,No,Yes,No,Yes
+C+ - D,C+ - D,A - B,C+ - D,C+ - D,Yes,No,No,No
+A - B,A - B,A - B,A - B,A - B,Yes,Yes,Yes,Yes
+C+ - D,C+ - D,A - B,"F , W",C+ - D,Yes,No,No,Yes
+C+ - D,C+ - D,C+ - D,C+ - D,C+ - D,Yes,Yes,Yes,No
+A - B,A - B,A - B,C+ - D,C+ - D,Yes,Yes,Yes,No
+A - B,C+ - D,C+ - D,C+ - D,C+ - D,No,Yes,No,Yes
+C+ - D,C+ - D,C+ - D,C+ - D,C+ - D,Yes,Yes,Yes,Yes
+A - B,C+ - D,C+ - D,C+ - D,"F , W",No,Yes,No,No
+A - B,A - B,A - B,A - B,A - B,Yes,Yes,No,Yes
+A - B,C+ - D,C+ - D,C+ - D,"F , W",No,Yes,Yes,No
+A - B,C+ - D,C+ - D,C+ - D,C+ - D,No,Yes,No,No
+A - B,C+ - D,C+ - D,C+ - D,"F , W",Yes,Yes,Yes,No
+C+ - D,C+ - D,"F , W",A - B,A - B,Yes,Yes,No,No
+A - B,A - B,A - B,A - B,A - B,Yes,Yes,Yes,Yes
+C + - D,C+  - D,C+ -D,C+ - D,"F , W",Yes,Yes,No,Yes
+C + - D,C+  - D,C+ -D,C+ - D,"F , W",Yes,No,No,No
+C + - D,C+  - D,C+ -D,C+ - D,"F , W",Yes,No,No,Yes
+C + - D,C+  - D,A - B,C+ - D,C+ - D,Yes,No,No,No
+A - B,C+  - D,A - B,C+ - D,C+ - D,No,Yes,No,Yes
+C + - D,A - B,A - B,C+ - D,C+ - D,Yes,Yes,Yes,No
+C + - D,C+  - D,A - B,C+ - D,C+ - D,Yes,Yes,Yes,Yes
+C + - D,C+  - D,C+ -D,C+ - D,C+ - D,Yes,No,Yes,No
+A - B,A - B,A - B,C+ - D,"F , W",No,Yes,No,No
+A - B,C+  - D,C+ -D,C+ - D,"F , W",Yes,Yes,No,No
+A - B,C+  - D,C+ -D,C+ - D,C+ - D,Yes,Yes,No,No
+C + - D,C+  - D,A - B,C+ - D,"F , W",Yes,No,No,No
+C + - D,C+  - D,C+ -D,C+ - D,"F , W",Yes,No,Yes,No
+A - B,A - B,A - B,A - B,"F , W",Yes,No,Yes,Yes
+A - B,C+  - D,A - B,C+ - D,"F , W",Yes,No,No,No
+C + - D,C+  - D,C+ -D,C+ - D,"F , W",Yes,No,No,No
+C + - D,C+  - D,C+ -D,C+ - D,C+ - D,Yes,No,No,No
+C + - D,C+  - D,C+ -D,C+ - D,C+ - D,No,Yes,No,No
+A - B,C+  - D,C+ -D,C+ - D,"F , W",No,Yes,No,Yes
+C + - D,C+  - D,C+ -D,C+ - D,"F , W",No,Yes,Yes,Yes
+C + - D,C+  - D,C+ -D,C+ - D,A - B,Yes,Yes,Yes,Yes
+C + - D,C+  - D,C+ -D,C+ - D,C+ - D,Yes,No,Yes,
+C + - D,A - B,A - B,A - B,A - B,No,Yes,Yes,Yes
+C + - D,C+  - D,C+ -D,C+ - D,A - B,Yes,No,No,No
+A - B,A - B,A - B,A - B,"F , W",Yes,Yes,Yes,No
+C + - D,A - B,A - B,C+ - D,C+ - D,Yes,Yes,No,No
+A - B,A - B,A - B,C+ - D,"F , W",Yes,Yes,Yes,Yes
+C + - D,C+  - D,C+ -D,C+ - D,"F , W",Yes,Yes,No,No
+C + - D,C+  - D,C+ -D,C+ - D,C+ - D,No,Yes,No,No
+C + - D,C+  - D,C+ -D,"F , W",C+ - D,Yes,No,No,No
+C + - D,C+  - D,C+ -D,C+ - D,C+ - D,Yes,Yes,Yes,No
+A - B,C+  - D,C+ -D,C+ - D,"F , W",Yes,Yes,Yes,Yes
+C + - D,C+  - D,C+ -D,C+ - D,"F , W",No,Yes,Yes,No
+A - B,C+  - D,C+ -D,C+ - D,C+ - D,Yes,Yes,Yes,No
+C + - D,C+  - D,C+ -D,C+ - D,C+ - D,Yes,Yes,No,No
+A - B,C+  - D,C+ -D,C+ - D,C+ - D,Yes,Yes,Yes,Yes
+A - B,C+  - D,C+ -D,C+ - D,"F , W",Yes,No,No,No
+A - B,C+  - D,A - B,C+ - D,C+ - D,No,Yes,Yes,Yes
